@@ -35,7 +35,8 @@ The dashboard provides insights into:
 - Best Posting Hour Analysis
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](Screenshot 2026-02-12 214439.png")
+![Dashboard Preview] <img width="1920" height="1020" alt="Screenshot 2026-02-12 214439" src="https://github.com/user-attachments/assets/c83a2e93-cd59-441a-964a-6a5633ef5f0d" />
+
 
 ## 🎯 Key Insights
 - Reels show higher engagement compared to images and carousels
