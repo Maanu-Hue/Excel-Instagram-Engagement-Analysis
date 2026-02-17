@@ -1,6 +1,6 @@
 # 📊 Excel-Based Instagram Engagement & Traffic Analysis
-
-This project analyzes Instagram performance using **Excel** and **Pivot Tables** to understand engagement, traffic sources, and content effectiveness.
+This project analyzes Instagram performance using *Excel* and *Pivot Tables* to understand engagement, traffic sources, and content effectiveness.
+The dataset was cleaned, transformed, and analyzed to identify meaningful patterns in content reach, likes, engagement rate, and posting trends. Pivot tables and Excel formulas were used to calculate key performance metrics, and the insights were visualized through an interactive dashboard.
 
 ## 🔍 Project Overview
 The dashboard provides insights into:
