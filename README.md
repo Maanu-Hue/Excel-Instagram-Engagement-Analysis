@@ -32,7 +32,7 @@ The dashboard provides insights into:
 - Best Posting Hour Analysis
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-02-12 214439.png")
+![Dashboard Preview](Screenshot 2026-02-12 214439.png")
 
 ## 🎯 Key Insights
 - Reels show higher engagement compared to images and carousels
